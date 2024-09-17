@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **mobile app developing**
 
-- 🌱 I’m currently learning **Flutter, Dart**
+- 🌱 I’m currently learning **Flutter, Dart and Flame**
 
 - 👨‍💻 All of my projects are available at [https://migarakavishan.github.io/my-portfolio/](https://migarakavishan.github.io/my-portfolio/)
 
