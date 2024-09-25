@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter, Dart and Flame**
 
-- 👨‍💻 All of my projects are available at [https://migarakavishan.github.io/my-portfolio/](https://migarakavishan.github.io/my-portfolio/)
+- 👨‍💻 All of my projects are available at [https://migarakavishan.github.io/my-portfolio/](https://migarakavishan.vercel.app/)
 
 - 💬 Ask me about **js,react,flutter**
 
