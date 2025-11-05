@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://migarakavishan.vercel.app/](https://migarakavishan.vercel.app/)
 
-- 📫 How to reach me migarakavishan43@gmail.com **migarakavishan43@gmail.com**
+- 📫 How to reach me **migarakavishan43@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12Fml_1CJ6tYdKBH5tC9b6STLxzrssYD7/view](https://drive.google.com/file/d/12Fml_1CJ6tYdKBH5tC9b6STLxzrssYD7/view)
 
